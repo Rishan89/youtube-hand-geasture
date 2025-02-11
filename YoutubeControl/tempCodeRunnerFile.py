@@ -1,0 +1,1 @@
+["free_hand","right","left", "v_up","v_down","max","min","stop"]
